@@ -20,13 +20,20 @@ Lo que estoy aprendiendo:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
----
+
+
+<br />
+
 [linkedin]:https://www.linkedin.com/in/andres-carmona-lozano-412965137/
+
 [k8slens]:https://k8slens.dev/
 
+
 ### Herramientas que utilizo:
+
  - <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"> Visual Studio Code como editor de código principal.
  - <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png"> Vim es un editor que estoy aprendiendo a usar y me gustaria terminar de dominar.
 
 ### Herramientas interesantes que he encontrado recientemente:
+
 - [<img width="26px" src="https://k8slens.dev/images/lens-logo.svg">][k8slens] [Kube Lens](https://k8slens.dev/), una herramienta que permite tener un control visual sobre los clusters de Kubernetes
