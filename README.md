@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Andrés
 
-### Actualmente estudiando el desarrollo web con el C.F.G.S de Desarrollo de Aplicaciones Web
+### Actualmente trabajando y aprendiendo de las nuevas tecnologías
 
 Lo que estoy aprendiendo:
  - <img width="26px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ"> Docker como herramienta de despliegue de contenedores<img width="26px" src="https://cdn0.iconfinder.com/data/icons/business-e-commerce-logistics-import-export/500/containerstack-512.png">
