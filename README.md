@@ -10,9 +10,6 @@ Lo que estoy aprendiendo:
     - <img width="26px" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png"> MySQL y <img width="26px" src="https://listimg.pinclipart.com/picdir/s/147-1471763_free-download-png-and-vector-oracle-database-icon.png">Oracle 
 
     <br />
-- Cosas que estoy empezando y quiero ver:
-    - <img width="26px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png"> Kubernetes, integración continua, etc.
-    - <img width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">MongoDB y <img width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redis-3-1175053.png"> Redis.
 ### Redes Sociales:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
